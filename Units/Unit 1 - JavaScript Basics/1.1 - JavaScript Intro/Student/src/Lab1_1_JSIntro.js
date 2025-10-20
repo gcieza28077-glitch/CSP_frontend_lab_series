@@ -11,11 +11,11 @@ let favoriteFood = "Steak";
 console.log(favoriteFood)
 
 // TODO 3: Create variable mystery, assign a string, then a number, print type each time
-constname = "Ana";
+const name = "Ana";
 console.log(variablemystery)
 
 // TODO 4: Declare const schoolName, try to reassign
-constsname = "Christopher Columbus"
+const name = "Christopher Columbus"
 console.log(schoolName)
 
 // TODO 5: Create three valid camelCase variables and print them
