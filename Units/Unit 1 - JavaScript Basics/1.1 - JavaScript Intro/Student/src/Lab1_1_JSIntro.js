@@ -12,15 +12,17 @@ console.log(favoriteFood)
 
 // TODO 3: Create variable mystery, assign a string, then a number, print type each time
 const name = "Ana";
-console.log(variablemystery)
+console.log(name)
 
 // TODO 4: Declare const schoolName, try to reassign
-const name = "Christopher Columbus"
+const schoolName = "Christopher Columbus"
 console.log(schoolName)
 
 // TODO 5: Create three valid camelCase variables and print them
-
-
+let g;
+let blue;
+let button;
+console.log(g)
 // 🚀 Stretch Goals (optional)
 // - Create a variable age and print "I am X years old" using concatenation
 // - Repeat using template literals
