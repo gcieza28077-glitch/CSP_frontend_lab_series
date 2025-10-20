@@ -4,16 +4,19 @@
    =========================================================== */
 
 // TODO 1: Print your full name with console.log()
-
+console.log("Gabe");
 
 // TODO 2: Declare variable favoriteFood, assign "Steak", then reassign "Pizza"
-
+let favoriteFood = "Steak";
+console.log(favoriteFood)
 
 // TODO 3: Create variable mystery, assign a string, then a number, print type each time
-
+constname = "Ana";
+console.log(variablemystery)
 
 // TODO 4: Declare const schoolName, try to reassign
-
+constsname = "Christopher Columbus"
+console.log(schoolName)
 
 // TODO 5: Create three valid camelCase variables and print them
 
