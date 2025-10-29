@@ -30,10 +30,15 @@ console.log(g)
 /* ===========================================================
    🎟 EXIT TICKET
    1. What new concept or skill did you learn in this lab?
+<<<<<<< HEAD
    I learned a little about JavaScript.
    2. How did you apply logic or conditionals in your code?
    3. What challenges did you encounter, and how did you solve them?
    Something that challenged me was using the variables.
    4. Where else could this programming concept be useful?
    It can be helpful with organization.
+=======
+   2. What challenges did you encounter, and how did you solve them?
+   3. Where else could this programming concept be useful?
+>>>>>>> upstream/main
    =========================================================== */
